@@ -120,7 +120,7 @@ payload:
   - DOMAIN-SUFFIX,envato.com
   - DOMAIN-SUFFIX,epg.one
   - DOMAIN-SUFFIX,esportsinsider.com
-  - DOMAIN-SUFFIX,instancecontrol.com
+  - DOMAIN-SUFFIX,v2.instancecontrol.com
   - DOMAIN-SUFFIX,etsy.com
   - DOMAIN-SUFFIX,euronews.com
   - DOMAIN-SUFFIX,exler.ru
@@ -499,3 +499,4 @@ payload:
   - DOMAIN-SUFFIX,zona.media
 
   - DOMAIN-SUFFIX,zoom.us
+
