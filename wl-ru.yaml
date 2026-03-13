@@ -182,6 +182,7 @@ payload:
   - DOMAIN-SUFFIX,holod.media
   - DOMAIN-SUFFIX,home-connect.com
   - DOMAIN-SUFFIX,honeywell.com
+  - DOMAIN_SUFFIX,hosted-by-discourse.com
   - DOMAIN-SUFFIX,hrw.org
   - DOMAIN-SUFFIX,huawei.com
   - DOMAIN-SUFFIX,huggingface.co
@@ -500,6 +501,7 @@ payload:
   - DOMAIN-SUFFIX,zona.media
 
   - DOMAIN-SUFFIX,zoom.us
+
 
 
 
