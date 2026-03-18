@@ -372,6 +372,7 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,serpstat.com
   - DOMAIN-SUFFIX,servarr.com
+  - DOMAIN-SUFFIX,serverdeals.cc
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,sherlock-report.at
   - DOMAIN-SUFFIX,signal.me
