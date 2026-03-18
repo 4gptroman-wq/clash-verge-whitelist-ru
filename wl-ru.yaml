@@ -477,6 +477,7 @@ payload:
   - DOMAIN-SUFFIX,wunderground.com
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,xbit.win
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,xerox.com
   - DOMAIN-SUFFIX,xtracloud.net
