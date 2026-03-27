@@ -126,7 +126,6 @@ payload:
   - DOMAIN-SUFFIX,euronews.com
   - DOMAIN-SUFFIX,exler.ru
   - DOMAIN-SUFFIX,facebook.com
-  - DOMAIN-SUFFIX,fastly.net
   - DOMAIN-SUFFIX,fastlydns.net
   - DOMAIN-SUFFIX,fb.com
   - DOMAIN-SUFFIX,fbcdn.net
