@@ -74,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,clamav.net
   - DOMAIN-SUFFIX,clashvergerev.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,cline.bot
   - DOMAIN-SUFFIX,cloud.microsoft
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare.com
