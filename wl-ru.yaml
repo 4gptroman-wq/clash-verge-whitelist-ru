@@ -476,6 +476,7 @@ payload:
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,wistia.com
+  - DOMAIN-SUFFIX,wireguard.com
   - DOMAIN-SUFFIX,wixmp.com
   - DOMAIN-SUFFIX,wk.cz
   - DOMAIN-SUFFIX,wunderground.com
