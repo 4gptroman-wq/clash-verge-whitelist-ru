@@ -305,6 +305,7 @@ payload:
   - DOMAIN-SUFFIX,orbit-games.com
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,ovdinfo.org
+  - DOMAIN-SUFFIX,ovhcloud.com
   - DOMAIN-SUFFIX,pages.dev
   - DOMAIN-SUFFIX,pandasecurity.com
   - DOMAIN-SUFFIX,paperpaper.ru
