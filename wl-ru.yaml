@@ -123,6 +123,7 @@ payload:
   - DOMAIN-SUFFIX,envato.com
   - DOMAIN-SUFFIX,epg.one
   - DOMAIN-SUFFIX,esportsinsider.com
+  - DOMAIN-SUFFIX,ethernetservers.com
   - DOMAIN-SUFFIX,instancecontrol.com
   - DOMAIN-SUFFIX,etsy.com
   - DOMAIN-SUFFIX,euronews.com
@@ -429,6 +430,7 @@ payload:
   - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,timberland.com
+  - DOMAIN-SUFFIX,timeweb.cloud
   - DOMAIN-SUFFIX,tjournal.ru
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,torproject.org
