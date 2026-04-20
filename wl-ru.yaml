@@ -63,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,bsh-group.com
   - DOMAIN-SUFFIX,buckaroo.nl
   - DOMAIN-SUFFIX,cambiumnetworks.com
+  - DOMAIN-SUFFIX,cantabo.com
   - DOMAIN-SUFFIX,canva.com
   - DOMAIN-SUFFIX,cdn2site.com
   - DOMAIN-SUFFIX,cdninstagram.com
@@ -510,7 +511,6 @@ payload:
   - DOMAIN-SUFFIX,znanija.com
   - DOMAIN-SUFFIX,zohomail.com
   - DOMAIN-SUFFIX,zona.media
-
   - DOMAIN-SUFFIX,zoom.us
 
 
