@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,121471.xyz
   - DOMAIN-SUFFIX,10minutemail.com
   - DOMAIN-SUFFIX,1337x.to
   - DOMAIN-SUFFIX,4pda.to
@@ -148,6 +149,7 @@ payload:
   - DOMAIN-SUFFIX,geekyfuroshiki.com
   - DOMAIN-SUFFIX,geni.us
   - DOMAIN-SUFFIX,genius.com
+  - DOMAIN-SUFFIX,getsvr.app
   - DOMAIN-SUFFIX,gifer.com
   - DOMAIN-SUFFIX,gig.ovh
   - DOMAIN-SUFFIX,github.com
