@@ -334,6 +334,7 @@ payload:
   - DOMAIN-SUFFIX,pixabay.com
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,plab.site
+  - DOMAIN-SUFFIX,platega.io
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,polit.ru
   - DOMAIN-SUFFIX,postfix.org
