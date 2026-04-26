@@ -84,6 +84,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudron.io
+  - DOMAIN-SUFFIX,cloudzy.com
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,colta.ru
   - DOMAIN-SUFFIX,com.ua
