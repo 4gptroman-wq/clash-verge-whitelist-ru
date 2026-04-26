@@ -315,6 +315,7 @@ payload:
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,ovdinfo.org
   - DOMAIN-SUFFIX,ovhcloud.com
+  - DOMAIN-SUFFIX,ovh.com
   - DOMAIN-SUFFIX,pages.dev
   - DOMAIN-SUFFIX,pandasecurity.com
   - DOMAIN-SUFFIX,paperpaper.ru
