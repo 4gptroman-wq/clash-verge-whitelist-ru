@@ -43,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,bbc.co.uk
+  - DOMAIN-SUFFIX,b12.io
   - DOMAIN-SUFFIX,bbc.com
   - DOMAIN-SUFFIX,bbci.co.uk
   - DOMAIN-SUFFIX,bedolagam.ru
