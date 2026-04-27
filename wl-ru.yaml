@@ -452,6 +452,7 @@ payload:
   - DOMAIN-SUFFIX,torrent.by
   - DOMAIN-SUFFIX,tracker.gg
   - DOMAIN-SUFFIX,tracker.wf
+  - DOMAIN-SUFFIX,trustpilot.com
   - DOMAIN-SUFFIX,tutanota.com
   - DOMAIN-SUFFIX,tvrain.ru
   - DOMAIN-SUFFIX,tvtime.com
