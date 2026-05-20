@@ -371,6 +371,8 @@ payload:
   - DOMAIN-SUFFIX,reuters.com
   - DOMAIN-SUFFIX,rezka.ag
   - DOMAIN-SUFFIX,ridl.io
+  - DOMAIN-SUFFIX,ridl.iorifty.org
+  - DOMAIN-SUFFIX,rifty.org
   - DOMAIN-SUFFIX,riotgames.com
   - DOMAIN-SUFFIX,rocket.chat
   - DOMAIN-SUFFIX,ruckuswireless.com
